@@ -7,4 +7,9 @@
     <string name="Disable_Button_Name">Disable</string>
     <string name="Edit_Button_Name">Edit</string>
     <string name="fab_label">CREATE</string>
+
+    <string name="test1">Card 1</string>
+    <string name="test2">Card 2</string>
+    <string name="test3">Card 3</string>
+    <string name="test4">Card 4</string>
 </resources>

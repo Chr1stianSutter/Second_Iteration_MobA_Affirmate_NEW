@@ -6,7 +6,7 @@
         <!-- FIX: Referencing missing attributes which should already be defined in the support library: -->
         <item name="floatingActionButtonStyle">@style/Widget.Design.FloatingActionButton</item>
         <item name="cardViewStyle">@style/CardView.Light</item>
-        <item name="navigationViewStyle">@style/AppTheme</item>item>
+        <item name="navigationViewStyle">@style/Widget.Design.NavigationView</item>item>
 
         <item name="colorPrimary">@color/colorLightGray</item>
         <item name="colorPrimaryDark">@color/colorLightGray</item>
